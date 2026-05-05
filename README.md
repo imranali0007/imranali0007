@@ -43,8 +43,8 @@
 
 ## 📫 Connect with Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 📧 Email: imrannejamee@gmail.com
+* 💼 LinkedIn: www.linkedin.com/in/imran-ali-623a4034a
 * 🐙 GitHub: https://github.com/imranali0007
 
 ---
@@ -54,5 +54,3 @@
 > I enjoy breaking systems… ethically 😄
 
 ---
-
-⭐ **Feel free to check out my repositories and give a star!**
